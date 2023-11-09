@@ -1,8 +1,8 @@
 {
   "name": "react_portfolio",
   "version": "0.1.0",
-  "homepage": "https://ManeeshvK.github.io/react-gh-pages",
-  "private": true,
+  "homepage": "https://maneeshvk.github.io/maneesh.dev/",
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",

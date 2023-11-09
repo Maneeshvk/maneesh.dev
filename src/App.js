@@ -22,9 +22,9 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename="/maneesh.dev">
         <Routes>
-          <Route path="/" element={<Homepage />} />
+          <Route exact path="/" element={<Homepage />} />
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/articles" element={<Articles />} />
