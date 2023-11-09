@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maneesh.dev/static/css/main.9b784a17.css",
-    "main.js": "/maneesh.dev/static/js/main.a4e69c33.js",
+    "main.js": "/maneesh.dev/static/js/main.b5173335.js",
     "static/js/787.cf482a7c.chunk.js": "/maneesh.dev/static/js/787.cf482a7c.chunk.js",
     "index.html": "/maneesh.dev/index.html",
     "main.9b784a17.css.map": "/maneesh.dev/static/css/main.9b784a17.css.map",
-    "main.a4e69c33.js.map": "/maneesh.dev/static/js/main.a4e69c33.js.map",
+    "main.b5173335.js.map": "/maneesh.dev/static/js/main.b5173335.js.map",
     "787.cf482a7c.chunk.js.map": "/maneesh.dev/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b784a17.css",
-    "static/js/main.a4e69c33.js"
+    "static/js/main.b5173335.js"
   ]
 }
