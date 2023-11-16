@@ -3,14 +3,14 @@ const INFO = {
     title: "Maneesh Kumar V",
     name: "Maneesh Kumar",
     email: "maneeshvk.cs@gmail.com",
-    logo: "../logo.jpg",
+    logo: "./assets/logo.jpg",
   },
 
   socials: {
     twitter: "https://twitter.com/",
     github: "https://github.com/ManeeshvK",
     linkedin: "https://www.linkedin.com/in/maneeshvk/",
-    instagram: "https://instagram.com/",
+    instagram: "https://instagram.com/maneeshvkumar",
     stackoverflow: "https://stackoverflow.com/",
     facebook: "https://facebook.com/",
   },
@@ -23,7 +23,7 @@ const INFO = {
 
   about: {
     title:
-      "I’m Maneesh Kumar V. I live in Chennai, India, inspires my future, and I love exploring new countries.",
+      "I'm Maneesh Kumar V, residing in Chennai, India, fueled by the inspiration for my future. I have a profound love for exploring new countries, although my travel adventures are yet to begin.",
     description:
       "I'm thrilled to welcome you to my corner of the internet. With a solid foundation in full stack development and 3 years of practical experience, I've honed my skills in JavaScript, React, React Native, Flutter, Python, and AWS. My journey in the tech world has been a rewarding adventure, marked by diverse projects and inspiring challenges.",
   },
@@ -40,7 +40,7 @@ const INFO = {
       title: "Construction Management Tool",
       description:
         "In my role as a team leader and full stack developer, I utilized React and React Native, along with Bootstrap, to create a seamless user experience along with that used MySQL as database, and we leveraged AWS for secure and efficient cloud hosting. ",
-      logo: "../common/react.png",
+      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
       //   linkText: "View Project",
       //   link: "https://github.com",
     },
@@ -49,7 +49,7 @@ const INFO = {
       title: "Traffic Police app",
       description:
         "This government project, tailored for traffic police, streamlines processes such as DL and RC checks, issuing challans, and task assignments. Developed using Flutter and node js with MySQL databases.",
-      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
       //   linkText: "View Project",
       //   link: "https://github.com",
     },
@@ -58,7 +58,7 @@ const INFO = {
       title: "School Management",
       description:
         "This government-based project was meticulously designed for managing schools, focusing on efficient administration. Developed using Flutter, the application offers a user-friendly interface, while the backend operations are supported by a MySQL database hosted on AWS.",
-      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
       //   linkText: "View Project",
       //   link: "https://github.com",
     },
@@ -72,14 +72,14 @@ const INFO = {
       //   link: "https://github.com",
     },
 
-    {
-      title: "Project 5",
-      description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-      linkText: "View Project",
-      link: "https://github.com",
-    },
+    // {
+    //   title: "Project 5",
+    //   description:
+    //     "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+    //   logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+    //   linkText: "View Project",
+    //   link: "https://github.com",
+    // },
   ],
 };
 
