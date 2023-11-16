@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/maneesh.dev/static/css/main.9b784a17.css",
-    "main.js": "/maneesh.dev/static/js/main.b5173335.js",
+    "main.css": "/maneesh.dev/static/css/main.9cb9fca6.css",
+    "main.js": "/maneesh.dev/static/js/main.a72f78cc.js",
     "static/js/787.cf482a7c.chunk.js": "/maneesh.dev/static/js/787.cf482a7c.chunk.js",
+    "static/media/about.png": "/maneesh.dev/static/media/about.8c3336d13465c7df2745.png",
+    "static/media/homepage.jpg": "/maneesh.dev/static/media/homepage.25710eba2edcf099bfd3.jpg",
+    "static/media/xbi4_logo.png": "/maneesh.dev/static/media/xbi4_logo.9f492145c56f579062b9.png",
+    "static/media/vivid_logo.png": "/maneesh.dev/static/media/vivid_logo.f8fd32963dfd25950b57.png",
+    "static/media/logo.jpg": "/maneesh.dev/static/media/logo.ed86d3f90b186ad0f6e5.jpg",
+    "static/media/gyan.png": "/maneesh.dev/static/media/gyan.196576e2bbd03855ee05.png",
     "index.html": "/maneesh.dev/index.html",
-    "main.9b784a17.css.map": "/maneesh.dev/static/css/main.9b784a17.css.map",
-    "main.b5173335.js.map": "/maneesh.dev/static/js/main.b5173335.js.map",
+    "main.9cb9fca6.css.map": "/maneesh.dev/static/css/main.9cb9fca6.css.map",
+    "main.a72f78cc.js.map": "/maneesh.dev/static/js/main.a72f78cc.js.map",
     "787.cf482a7c.chunk.js.map": "/maneesh.dev/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b784a17.css",
-    "static/js/main.b5173335.js"
+    "static/css/main.9cb9fca6.css",
+    "static/js/main.a72f78cc.js"
   ]
 }
